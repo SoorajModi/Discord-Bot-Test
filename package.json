@@ -43,7 +43,7 @@
     "axios": "^1.0.0",
     "connect-mongo": "4.6.0",
     "cookie-parser": "1.4.6",
-    "cronstrue": "2.23.0",
+    "cronstrue": "2.54.0",
     "discord.js": "^14.6.0",
     "dotenv": "16.0.3",
     "emoji-regex": "10.2.1",
